@@ -1,6 +1,6 @@
 ---
-title: Projects at hackathon.lu 
-description: Team and Projects at hackathon.lu 2025 
+title: Projects at hackathon.lu
+description: Team and Projects at hackathon.lu 2025
 toc: true
 ---
 
@@ -18,5 +18,12 @@ toc: true
 
 ### Lacus
 
+![](/images/projects/lacus-logo.png)
 
+### Lookyloo
 
+![](/images/projects/lookyloo-logo.png)
+
+### Pandora
+
+![](/images/projects/pandora-logo.png)
