@@ -41,6 +41,9 @@ menu:
     - name: Practical
       pageRef: /practical
       weight: 4
+    - name: Sponsoring
+      pageRef: /sponsoring
+      weight: 5
     - name: Search
       weight: 6
       params:
