@@ -19,6 +19,10 @@ This 2-day physical Hackathon, held in Luxembourg on April 8th and 9th, 2025, fo
 If you'd like to contribute by sharing your thoughts and observations,
 feel free to create an account on the [the official instance](https://vulnerability.circl.lu).
 
+## Organized by
+
+[![CIRCL](https://www.circl.lu/assets/images/circl-logo.png)](https://circl.lu/)
 
 ## Sponsors
+
 
