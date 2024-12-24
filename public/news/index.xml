@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackathon.lu - The Open Source Security Software Hackathon – News</title>
+    <link>https://hackathon.lu/news/</link>
+    <description>Recent content in News on hackathon.lu - The Open Source Security Software Hackathon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://hackathon.lu/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>hackathon.lu 2025 announced</title>
+      <link>https://hackathon.lu/2024/12/24/hackathon.lu-2025-announced/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackathon.lu/2024/12/24/hackathon.lu-2025-announced/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;https://hackathon.lu/images/hackathon.png&#34; alt=&#34;logo for hacklathon.lu&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://hack.lu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hack.lu&lt;/a&gt; team and &lt;a href=&#34;https://www.circl.lu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIRCL&lt;/a&gt; announce the new hackathon.lu 2025 event.&lt;/p&gt;
+&lt;p&gt;This 2-day physical Hackathon, held in Luxembourg on April 8th and 9th, 2025, focuses on the development of free and open-source software for cybersecurity. We aim to convene diverse developer groups to collaborate on complex programming challenges within key cybersecurity areas, such as information sharing, threat intelligence, network and system forensics, data mining, network and computer exploitation, and defense techniques. The hackathon&amp;rsquo;s objectives include improving existing open-source security &lt;a href=&#34;https://hackathon.lu/projects/&#34; &gt;projects&lt;/a&gt;, enhancing interoperability and integration between different security tools, and driving the creation of innovative new solutions.&lt;/p&gt;
+&lt;p&gt;Ready to join? Register here: &lt;a href=&#34;https://hackathon.lu/practical/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hackathon.lu/practical/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re leading a project, we encourage you to submit your proposal. We&amp;rsquo;re enthusiastic about expanding our project list for the hackathon.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

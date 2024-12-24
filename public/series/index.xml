@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackathon.lu - The Open Source Security Software Hackathon – Series</title>
+    <link>https://hackathon.lu/series/</link>
+    <description>Recent content in Series on hackathon.lu - The Open Source Security Software Hackathon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://hackathon.lu/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
