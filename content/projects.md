@@ -6,6 +6,8 @@ toc: true
 
 ## Projects and Team at hackathon.lu 2025
 
+The following open-source projects will be at the hackathon. If you'd like to include your project, feel free to [contact us](https://hackathon.lu/practical/)!
+
 ### MISP Project
 
 ![](/images/projects/misp-logo.png)
