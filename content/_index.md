@@ -15,6 +15,7 @@ The hackathon will emphasize tackling complex challenges, whether by enhancing e
 {{< cards >}}
   {{< card link="practical" title="Practical Information" icon="ticket" >}}
   {{< card link="projects" title="Projects" icon="book-open" >}}
+  {{< card link="topics" title="Topics and Tasks" icon="hand" >}}
 {{< /cards >}}
 
 If you'd like to join us, don't hesitate [to register](https://hackathon.lu/practical/) or get in touch with us if you have ideas

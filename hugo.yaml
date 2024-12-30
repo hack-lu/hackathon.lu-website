@@ -38,6 +38,9 @@ menu:
     - name: Projects 
       pageRef: /projects
       weight: 2
+    - name: Topics
+      pageRef: /topics
+      weight: 3
     - name: Practical
       pageRef: /practical
       weight: 4
@@ -53,6 +56,11 @@ menu:
       url: "https://social.circl.lu/@circl"
       params:
         icon: mastodon
+    - name: GitHub
+      weight: 9
+      url: "https://github.com/hack-lu/hackathon.lu-website"
+      params:
+        icon: github
 
 
 params:

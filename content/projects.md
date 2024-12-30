@@ -12,37 +12,53 @@ The following open-source projects will be at the hackathon. If you'd like to in
 
 ![](/images/projects/misp-logo.png)
 
-Description: 
+[MISP](https://www.misp-project.org/), the open source threat sharing platform.
 
 ### AIL Project
 
 ![](/images/projects/ail-logo.png)
 
+[AIL Project](https://www.ail-project.org/) is an open source framework composed of different modules to collect, crawl, dig and analyse unstructured data. AIL includes an extensible Python-based framework for analysis of unstructure information collected via an advanced Crawler manager or from different feeders (such as Twitter, Discord, Telegram Stream providers) or custom feeders. 
+
 ### Kunai
 
 ![](/images/projects/kunai-logo.png)
+
+[Kunai](https://why.kunai.rocks/): bring your Linux Threat-Hunting capabilities to the next level.
 
 ### Flowintel
 
 ![](images/projects/flowintel-logo.png)
 
+[Flowintel](https://github.com/flowintel/flowintel) is an open-source platform designed to assist analysts in organizing their cases and tasks. It features a range of tools and functionalities to enhance workflow efficiency.
+
 ### Lacus
 
 ![](/images/projects/lacus-logo.png)
+
+[Lacus](https://github.com/ail-project/lacus): A capturing system using playwright, as a web service.
 
 ### Lookyloo
 
 ![](/images/projects/lookyloo-logo.png)
 
+[Lookylooo](https://github.com/Lookyloo/) is a web interface that captures a webpage and then displays a tree of the domains, that call each other.
+
 ### Pandora
 
 ![](/images/projects/pandora-logo.png)
+
+[Pandora](https://github.com/pandora-analysis/pandora) is an analysis framework to discover if a file is suspicious and conveniently show the results.
 
 ### vulnerability-lookup
 
 ![](/images/projects/vulnerability-lookup-logo.jpg)
 
+[vulnerability-lookup](https://www.vulnerability-lookup.org/) facilitates quick correlation of vulnerabilities from various sources, independent of vulnerability IDs, and streamlines the management of Coordinated Vulnerability Disclosure (CVD).
+
 ### OISF and Suricata
 
 ![](/images/projects/oisf-logo.png)
 ![](/images/projects/suricata-logo.jpg)
+
+[Suricata](https://suricata.io/) is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
