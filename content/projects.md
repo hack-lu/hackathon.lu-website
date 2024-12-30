@@ -12,11 +12,19 @@ The following open-source projects will be at the hackathon. If you'd like to in
 
 ![](/images/projects/misp-logo.png)
 
+Description: 
+
 ### AIL Project
+
+![](/images/projects/ail-logo.png)
 
 ### Kunai
 
+![](/images/projects/kunai-logo.png)
+
 ### Flowintel
+
+![](images/projects/flowintel-logo.png)
 
 ### Lacus
 
