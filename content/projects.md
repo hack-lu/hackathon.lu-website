@@ -37,3 +37,12 @@ Description:
 ### Pandora
 
 ![](/images/projects/pandora-logo.png)
+
+### vulnerability-lookup
+
+![](/images/projects/vulnerability-lookup-logo.jpg)
+
+### OISF and Suricata
+
+![](/images/projects/oisf-logo.png)
+![](/images/projects/suricata-logo.jpg)
