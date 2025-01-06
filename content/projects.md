@@ -62,3 +62,7 @@ The following open-source projects will be at the hackathon. If you'd like to in
 ![](/images/projects/suricata-logo.jpg)
 
 [Suricata](https://suricata.io/) is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
+
+### cocktailparty
+
+[cocktailparty](https://www.vulnerability-lookup.org/) is a websocket data brocker system based on the [phoenix framework](https://www.phoenixframework.org/).
