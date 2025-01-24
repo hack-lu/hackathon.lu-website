@@ -65,4 +65,6 @@ The following open-source projects will be at the hackathon. If you'd like to in
 
 ### cocktailparty
 
+![](/images/projects/logo-cocktail-party-horizontal-coul.png)
+
 [cocktailparty](https://github.com/flowintel/CocktailParty) is a websocket data brocker system based on the [phoenix framework](https://www.phoenixframework.org/).
