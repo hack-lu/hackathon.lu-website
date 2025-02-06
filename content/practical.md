@@ -23,3 +23,15 @@ toc: false
 # Contact
 
 If you need to contact the hack.lu team, please use the email: info(AT)hack(DOT)lu
+
+
+# Register a new project
+
+During sign-up you can select from a list of projects or suggest a new project.
+To prepare for the hackathon and attract more people to contribute, you can already add your projects and tasks on the [website via a PR:](https://github.com/hack-lu/hackathon.lu-website)
+
+The idea behind the concept of tasks is to provide visibility to potential contributors and help other projects to identify possible collaboration opportunities, even before the actual hackathon starts.
+
+It would be great if you could add tasks or ideas for tasks related to your specific projects, as well as potential interactions with other projects.
+
+Don't hesitate to ask as for support if needed.
