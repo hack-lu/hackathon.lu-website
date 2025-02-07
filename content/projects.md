@@ -68,3 +68,10 @@ The following open-source projects will be at the hackathon. If you'd like to in
 ![](/images/projects/logo-cocktail-party-horizontal-coul.png)
 
 [cocktailparty](https://github.com/flowintel/CocktailParty) is a websocket data brocker system based on the [phoenix framework](https://www.phoenixframework.org/).
+
+
+### Mercator
+
+![](/images/projects/logo4c.png) 
+
+[Mercator](https://github.com/dbarzin/mercator) is a powerful and versatile open-source web application designed to facilitate the mapping of information systems, as outlined in the [Mapping The Information System Guide](https://cyber.gouv.fr/en/publications/mapping-information-system) by [ANSSI](https://cyber.gouv.fr/en). Whether you're an operator of vital importance or part of a broader IT governance framework, Mercator is an essential tool for gaining visibility, control, and ensuring the resilience of your information systems.
