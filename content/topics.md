@@ -59,6 +59,19 @@ Use and create open data and datasets to support cybersecurity research, trainin
 
 Focus on creating and improving APIs and tools that enable seamless integration and interoperability between different cybersecurity platforms.
 
+### Mercator  
+
+Work on auto-discovery and update of existing objects using the [REST API](https://dbarzin.github.io/mercator/api/).
+
+#### Tasks  
+
+- **Auto-discovery with nmap**: Scan the network to identify active devices and retrieve basic information (IP, open ports, OS fingerprinting).  
+- **Update server configuration with SNMP**: Collect hardware and software information from discovered devices and update Mercator accordingly.  
+- **Integration with existing inventory data**: Cross-reference discovered devices with existing inventory records to update or flag discrepancies.  
+- **Automated tagging and categorization**: Assign tags based on device type, OS, and role in the network.  
+- **Web UI enhancements**: Display real-time discovered devices and provide an interface for manual validation and corrections.  
+- **Alerting for new/unexpected devices**: Notify administrators when unknown or unauthorized devices appear on the network.  
+
 ### Cybersecurity Education
 
 Create and share educational resources (e.g. CTF challenges), training modules, documentation and workshops to advance knowledge and skills in cybersecurity.
