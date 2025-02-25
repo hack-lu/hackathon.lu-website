@@ -75,3 +75,9 @@ The following open-source projects will be at the hackathon. If you'd like to in
 ![](/images/projects/logo4c.png) 
 
 [Mercator](https://github.com/dbarzin/mercator) is a powerful and versatile open-source web application designed to facilitate the mapping of information systems, as outlined in the [Mapping The Information System Guide](https://cyber.gouv.fr/en/publications/mapping-information-system) by [ANSSI](https://cyber.gouv.fr/en). Whether you're an operator of vital importance or part of a broader IT governance framework, Mercator is an essential tool for gaining visibility, control, and ensuring the resilience of your information systems.
+
+### sysdiagnose analysis framework
+
+![](/images/projects/sysdiagnose-logo.png)
+
+[sysdiagnose](https://github.com/EC-DIGIT-CSIRC/sysdiagnose) is an open-source framework developed to facilitate the analysis of the Apple sysdiagnose files and especially the one generated on mobile devices (iOS / iPadOS).  In the light of targeted attacks against journalists, activist, representatives from the civil society and politicians, it empowered incident response team to review device behaviour and ensure their integrity.  This tool is initially the result of a joint effort between EC DIGIT CSOC (European Commission DG DIGIT) and CERT-EU (https://cert.europa.eu/).
