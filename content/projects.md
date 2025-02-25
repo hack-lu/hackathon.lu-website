@@ -50,11 +50,20 @@ The following open-source projects will be at the hackathon. If you'd like to in
 
 [Pandora](https://github.com/pandora-analysis/pandora) is an analysis framework to discover if a file is suspicious and conveniently show the results.
 
-### vulnerability-lookup
+### Vulnerability-Lookup
 
 ![](/images/projects/vulnerability-lookup-logo.jpg)
 
-[vulnerability-lookup](https://www.vulnerability-lookup.org/) facilitates quick correlation of vulnerabilities from various sources, independent of vulnerability IDs, and streamlines the management of Coordinated Vulnerability Disclosure (CVD).
+[Vulnerability-Lookup](https://www.vulnerability-lookup.org) facilitates quick correlation of vulnerabilities from various sources, independent of vulnerability IDs, and streamlines the management of Coordinated Vulnerability Disclosure (CVD).
+
+### VulnTrain
+
+[VulnTrain](https://github.com/vulnerability-lookup/VulnTrain) is a tool for generating diverse datasets and models using vulnerability data from Vulnerability-Lookup.
+
+It leverages all vulnerability advisory sources supported by Vulnerability-Lookup to train models, utilizing over one million JSON records.
+Additionally, data from the ``vulnerability-lookup:meta`` container, including enrichment sources such as ``vulnrichment`` and ``Fraunhofer FKIE``, is incorporated to enhance model quality.
+
+Various models are already [available on Hugging Face](https://huggingface.co/CIRCL) and we are always interested in new ideas (datasets, trainers, integration with Vulnerability-Lookup, ...)!
 
 ### OISF and Suricata
 
