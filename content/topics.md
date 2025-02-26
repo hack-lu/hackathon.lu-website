@@ -51,6 +51,24 @@ Develop and refine strategies and tools for identifying, assessing, and prioriti
  **vulnerability-lookup**|
 | References<br> - [https://www.vulnerability-lookup.org/](https://www.vulnerability-lookup.org/)<br>- [cpe-guesser](https://github.com/cve-search/cpe-guesser) |
 
+#### Task - Guessing CPE name with LLM
+
+| Task VUL-CPE-LLM|
+| :--|
+| Facilitating the guessing of a CPE name with LLM.|
+| Task Lead
+ **Vulnerability-Lookup**|
+| References<br> - [https://www.vulnerability-lookup.org](https://www.vulnerability-lookup.org)<br>- [VulnTrain](https://github.com/vulnerability-lookup/VulnTrain) |
+
+#### Task - Predict exploitability with LLM
+
+| Task VUL-EXP-LLM|
+| :--|
+| Estimating the exploitability of a new vulnerability with LLM.|
+| Task Lead
+ **Vulnerability-Lookup**|
+| References<br> - [https://www.vulnerability-lookup.org](https://www.vulnerability-lookup.org)<br>- [VulnTrain](https://github.com/vulnerability-lookup/VulnTrain) |
+
 ### Cybersecurity - Open Data and Open Datasets
 
 Use and create open data and datasets to support cybersecurity research, training, and collaborative innovation.
