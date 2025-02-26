@@ -90,3 +90,9 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 ![](/images/projects/sysdiagnose-logo.png)
 
 [sysdiagnose](https://github.com/EC-DIGIT-CSIRC/sysdiagnose) is an open-source framework developed to facilitate the analysis of the Apple sysdiagnose files and especially the one generated on mobile devices (iOS / iPadOS).  In the light of targeted attacks against journalists, activist, representatives from the civil society and politicians, it empowered incident response team to review device behaviour and ensure their integrity.  This tool is initially the result of a joint effort between EC DIGIT CSOC (European Commission DG DIGIT) and CERT-EU (https://cert.europa.eu/).
+
+### YALTF (Yet Another License Tool and Framework)
+
+![YALTF (Yet Another License Tool and Framework)](/images/projects/yaltf.png)
+
+[YALTF](https://github.com/yaltf/yaltf)  is a tool designed to scan and gather software licenses across multiple remote systems. It connects to target systems via SSH and collects information about installed packages and their associated licenses. It features Remote system scanning via SSH, Parallel scanning of multiple targets, Support for CentOS, Fedora, RHEL (Rocky) and OpenSUSE, Structured JSON output.
