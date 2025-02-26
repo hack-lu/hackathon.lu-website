@@ -97,3 +97,82 @@ Create and share educational resources (e.g. CTF challenges), training modules, 
 ### Policy and Cybersecurity
 Improve open source toolings to support policies, regulations, and frameworks to address the challenges and opportunities at the intersection of governance and cybersecurity.
 
+### YALTF (Yet Another License Tool and Framework)
+#### Tasks: ***(Click for more details)***
+<details>
+    <summary>
+    <b>Expanded OS & platform support</b> <i>(Windows, macOS)</i>
+    </summary>
+
+- Extend linux support: Extend support to further Linux distributions, particularly Debian and its derivatives that are most used. Explore compressing license data for efficient scanning (additional feat)
+- Windows (SSH-Based): Enable scanning of software on Windows systems accessible via SSH.
+- Windows (native): Implement native scanning on Windows using the WinRM protocol.
+- macOS support: Extend scanning to macOS, including Homebrew-managed packages.
+- Docker compatibility:Support scanning of Docker images to detect license and security issues.
+</details>
+
+<details>
+    <summary>
+    <b>Enhanced UI (viewer)</b> <i>(advanced filters, better visualization)</i>
+    </summary>
+
+- Redesign the UI with modern web technologies for a better user experience.
+- Introduce advanced filtering, classification, and compliance-checking features.
+- Display scan summaries and elegantly visualize composite license structures.
+</details>
+
+<details>
+    <summary>
+    <b>Expand package scanning capabilities</b> <i>(Flatpak, Snap, npm ...)</i>
+    </summary>
+
+- Scan software installed via distribution-independent package managers (e.g., Flatpak, Snap).
+- Support CLI-based application package managers (e.g., Go modules, npm) for deeper license analysis.
+</details>
+
+
+<details>
+    <summary>
+    <b>Error handling & logging</b>
+    </summary>
+
+- Improve logging with detailed and actionable diagnostic messages.
+- Display errors and warnings directly in the scan report for better visibility.
+</details>
+
+<details>
+    <summary>
+    <b>Interoperability with other tools</b> <i>(ORT, CSV, SML, SPDX...)</i>
+    </summary>
+
+- Enable integration with existing license scanners. Provide outputs compatible with industry-standard tools like ORT for seamless report generation.
+- Support additional output formats, including CSV, XML, SPDX, and more, alongside the existing JSON.
+</details>
+
+<details>
+    <summary>
+    <b>Advanced configuration/parameters</b> <i>(Custom output names, locations...)</i>
+    </summary>
+
+- Expand configuration settings to allow custom output directories, report names, and other preferences.
+</details>
+
+<details>
+    <summary>
+    <b>Improved accuracy and security</b> <i>(Validation, Vulnerability Detection...)</i>
+    </summary>
+
+- License data validation: Cross-check scan results against online sources to ensure completeness and detect outdated or missing license information.
+- Vulnerability detection: Identify known vulnerabilities (CVEs) in scanned software by referencing security databases. Potentially leveraging lookup service from CIRCL.
+- Weak or insecure configuration detection: Analyze server, database, and software configurations for security misconfigurations that could lead to potential exploits.
+</details>
+
+<details>
+    <summary>
+    <b>Testing & QA</b> <i>(Automated test suits)</i>
+    </summary>
+
+- Develop automated test suites for YALTF to ensure accuracy, reliability, and robustness.
+</details>
+
+[YALTF Github Repo](https://github.com/yaltf/yaltf)
