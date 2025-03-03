@@ -95,4 +95,4 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 
 ![YALTF (Yet Another License Tool and Framework)](/images/projects/yaltf.png)
 
-[YALTF](https://github.com/yaltf/yaltf)  is a tool designed to scan and gather software licenses across multiple remote systems. It connects to target systems via SSH and collects information about installed packages and their associated licenses. It features Remote system scanning via SSH, Parallel scanning of multiple targets, Support for CentOS, Fedora, RHEL (Rocky) and OpenSUSE, Structured JSON output.
+[YALTF](https://github.com/yaltf/yaltf)  is a tool designed to scan and gather software licenses across multiple remote systems. It connects to target systems via SSH and collects information about installed packages and their associated licenses. It features Remote system scanning via SSH, Parallel scanning of multiple targets, Support for CentOS, Fedora, RHEL (Rocky) and OpenSUSE, Structured JSON output. This tool was initially developed by the International Committee of the Red Cross (ICRC) in collaboration with Cortex Security S.A.
