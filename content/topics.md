@@ -69,6 +69,16 @@ Develop and refine strategies and tools for identifying, assessing, and prioriti
  **Vulnerability-Lookup**|
 | References<br> - [https://www.vulnerability-lookup.org](https://www.vulnerability-lookup.org)<br>- [VulnTrain](https://github.com/vulnerability-lookup/VulnTrain) |
 
+#### Task - Enhanced Vulnerability-Lookup with Code Context
+
+| Task VUL-Sourcecode-LLM|
+| :--|
+| When searching for vulnerabilities, provide relevant code snippets from impacted projects.<br>Extend Vulnerability-Lookup database/dataset by linking CVEs with corresponding source code segments from affected products/repositories. Fine tune CodeBert of CodeT5.|
+| Task Lead
+ **Vulnerability-Lookup**|
+| References<br> - [https://www.vulnerability-lookup.org](https://www.vulnerability-lookup.org)<br>- [CodeBERT](https://huggingface.co/microsoft/codebert-base)<br>- [CodeT5](https://huggingface.co/Salesforce/codet5-base) |
+
+
 ### Cybersecurity - Open Data and Open Datasets
 
 Use and create open data and datasets to support cybersecurity research, training, and collaborative innovation.
