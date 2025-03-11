@@ -8,7 +8,8 @@ At **hackathon.lu 2025**, we believe in the power of **open data** and **large d
 
 ## Datasets 
 
-![](/images/greynoise-logo.svg)  
+<img src="/images/greynoise-logo.svg" alt="greynoise" style="background-color: lightgray;"/>
+
 ![](/images/circl-logo.png)  
 ![](/images/common-crawl.svg)  
 
