@@ -36,3 +36,9 @@ During the hackathon, a dataset in **Parquet format** will be available, contain
 
 A dataset in **Parquet format** containing HTTP traffic related to **Log4Shell**, collected by Greynoise between **October 2021 and April 2022**, will be available.
 
+### Vulnerabilities (Provider: CIRCL)
+
+[Daily dumps of security advisories](https://vulnerability.circl.lu/dumps/) from over 20 sources (CVE Program, NVD, PySec, GHSA, various CSAF feeds, etc.).
+
+Additionally, [AI datasets and models](https://huggingface.co/CIRCL) will be available.
+
