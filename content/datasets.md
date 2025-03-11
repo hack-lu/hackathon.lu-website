@@ -4,7 +4,7 @@ description: Datasets available at hackathon.lu 2025
 toc: true
 ---
 
-At **hackathon.lu 2025**, we believe in the power of **open data** and **large datasets** to drive innovation, foster creativity, and enable groundbreaking solutions in open-source security tooling. To support participants in their projects, we will provide access to a curated selection of **public and semi-public datasets** spanning various domains. These datasets are contributed by different organizations, and we welcome additional contributions to further enrich the resources available during the hackathon.
+At **hackathon.lu 2025**, we believe in the power of **open data** and **large datasets** to drive innovation, foster creativity, and enable groundbreaking solutions in open-source security tooling. To support participants in their [projects](/projects/) and [topics](/topics/), we will provide access to a curated selection of **public and semi-public datasets** spanning various domains. These datasets are contributed by different organizations, and we welcome additional contributions to further enrich the resources available during the hackathon.
 
 ## Datasets 
 
