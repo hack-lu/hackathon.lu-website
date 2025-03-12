@@ -8,9 +8,12 @@ At **hackathon.lu 2025**, we believe in the power of **open data** and **large d
 
 ## Datasets 
 
-![](/images/greynoise-logo.svg)  
-![](/images/circl-logo.png)  
-![](/images/common-crawl.svg)  
+<img src="/images/greynoise-logo.svg" alt="greynoise" style="background-color: lightgray;"/>
+
+<img src="/images/circl-logo.png" alt="" loading="lazy" style="background-color: lightgray;">
+
+<img src="/images/common-crawl.svg" alt="" loading="lazy" style="padding: 10px; background-color: lightgray;">
+
 
 ### Common Crawl (Provider: Common Crawl)
 
