@@ -7,7 +7,8 @@ toc: false
 
 [Alvisse Parc Hotel](https://www.parc-hotel.lu) - 120 Route d'Echternach, 1453 Luxembourg
 
-Find the hotel room booking form here:  https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg
+Find the hotel room booking form here: https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg
+
 The discount code is HACKATHON-2025.
 
 # Registration
