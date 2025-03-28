@@ -21,6 +21,14 @@ Explore innovative ways to collect, analyze, and share threat intelligence to en
  **MISP Project**  - taxonomies and galaxy maintainers.|
 | References<br> - [https://www.misp-galaxy.org/](https://www.misp-galaxy.org/)<br>- [https://github.com/MISP/misp-galaxy/](https://github.com/MISP/misp-galaxy/)<br>- [https://github.com/MISP/misp-taxonomies](https://github.com/MISP/misp-taxonomies) | 
 
+#### Task - Add MISP workflow action to send messages to nextcloud chat
+| Task MISP-WORKFLOW-NEXTCLOUD-CHAT|
+| :--|
+| Task Lead: **Jeroen Pinoy**  - MISP contributor|
+| References<br> - [Nexctcloud chat API doc](https://nextcloud-talk.readthedocs.io/en/latest/chat/) | 
+
+
+
 ### Digital Forensics and Incident Response
 
 Delve into tools and methodologies for investigating cyber incidents, uncovering evidence, and responding effectively to mitigate impact.
