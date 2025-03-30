@@ -27,13 +27,11 @@ Explore innovative ways to collect, analyze, and share threat intelligence to en
 | Task Lead: **Jeroen Pinoy**  - MISP contributor|
 | References<br> - [Nexctcloud chat API doc](https://nextcloud-talk.readthedocs.io/en/latest/chat/) | 
 
-#### Task - Build a set of examples of common cyber threat intelligence sharing scenarios (e.g. malware sample executed by cron job), with resulting MISP encoded version of the scenario data, along with explanations.
-
-| Task MISP-CTI-ENCODING-SCENARIO-SAMPLES|
+#### Task - Add functionality to MISP modules and/or MISP, to keep an audit record of the usage of modules (timestams + user)
+| Task MISP-MODULES-AUDIT|
 | :--|
-|Build a set of examples of common cyber threat intelligence sharing scenarios (e.g. malware sample executed by cron job), with resulting MISP encoded version of the scenario data, along with explanations.|
-| Task Lead: **Jeroen Pinoy**  - MISP contributor|
-| References<br> - [https://www.misp-project.org/misp-training/b.1-best-practices-in-threat-intelligence.pdf](https://www.misp-project.org/misp-training/b.1-best-practices-in-threat-intelligence.pdf) <br> - [https://www.circl.lu/doc/misp/best-practices/](https://www.circl.lu/doc/misp/best-practices/) | 
+| Task Lead: |
+| References<br> - [MISP modules repo](https://github.com/MISP/misp-modules) | 
 
 ### Digital Forensics and Incident Response
 
