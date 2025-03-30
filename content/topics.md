@@ -27,7 +27,10 @@ Explore innovative ways to collect, analyze, and share threat intelligence to en
 | Task Lead: **Jeroen Pinoy**  - MISP contributor|
 | References<br> - [Nexctcloud chat API doc](https://nextcloud-talk.readthedocs.io/en/latest/chat/) | 
 
-
+#### Task - Review and update the MISP OpenAPI documentation (especially the allowed arguments), using the real MISP documentation
+| Task MISP-OPENAPI-DOC|
+| :--|
+| Task Lead: **Jeroen Pinoy**  - MISP contributor|
 
 ### Digital Forensics and Incident Response
 
