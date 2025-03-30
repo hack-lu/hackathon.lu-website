@@ -27,7 +27,11 @@ Explore innovative ways to collect, analyze, and share threat intelligence to en
 | Task Lead: **Jeroen Pinoy**  - MISP contributor|
 | References<br> - [Nexctcloud chat API doc](https://nextcloud-talk.readthedocs.io/en/latest/chat/) | 
 
-
+#### Task - Add functionality to MISP modules and/or MISP, to keep an audit record of the usage of modules (timestams + user)
+| Task MISP-MODULES-AUDIT|
+| :--|
+| Task Lead: |
+| References<br> - [MISP modules repo](https://github.com/MISP/misp-modules) | 
 
 ### Digital Forensics and Incident Response
 
