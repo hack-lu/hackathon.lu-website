@@ -27,11 +27,29 @@ Explore innovative ways to collect, analyze, and share threat intelligence to en
 | Task Lead: **Jeroen Pinoy**  - MISP contributor|
 | References<br> - [Nexctcloud chat API doc](https://nextcloud-talk.readthedocs.io/en/latest/chat/) | 
 
-#### Task - Add functionality to MISP modules and/or MISP, to keep an audit record of the usage of modules (timestams + user)
+#### Task - Add functionality to MISP modules and/or MISP, to keep an audit record of the usage of modules (timestamps + user)
 | Task MISP-MODULES-AUDIT|
 | :--|
 | Task Lead: |
-| References<br> - [MISP modules repo](https://github.com/MISP/misp-modules) | 
+| References<br> - [MISP modules repo](https://github.com/MISP/misp-modules) |
+
+#### Task - Review and update the MISP OpenAPI documentation (especially the allowed arguments), using the real MISP documentation
+| Task MISP-OPENAPI-DOC|
+| :--|
+| Task Lead: **Jeroen Pinoy**  - MISP contributor|
+
+#### Task - Build a set of examples of common cyber threat intelligence sharing scenarios (e.g. malware sample executed by cron job), with resulting MISP encoded version of the scenario data, along with explanations.
+| Task MISP-CTI-ENCODING-SCENARIO-SAMPLES|
+| :--|
+|Build a set of examples of common cyber threat intelligence sharing scenarios (e.g. malware sample executed by cron job), with resulting MISP encoded version of the scenario data, along with explanations.|
+| Task Lead: **Jeroen Pinoy**  - MISP contributor|
+| References<br> - [https://www.misp-project.org/misp-training/b.1-best-practices-in-threat-intelligence.pdf](https://www.misp-project.org/misp-training/b.1-best-practices-in-threat-intelligence.pdf) <br> - [https://www.circl.lu/doc/misp/best-practices/](https://www.circl.lu/doc/misp/best-practices/) |
+
+#### Task - Create MISP incident response playbooks / guidelines
+| Task MISP-IR-PLAYBOOKS|
+| :--|
+| The goal is to create documentation for what to look at when trying to answer "Is the user activity of user X on MISP suspicious?". The doc should contain information on how to interpret logs, audit info... This falls under larger umbrella of how to detect and analyze potential abuse on a MISP instance.|
+| Task Lead: |
 
 ### Digital Forensics and Incident Response
 
