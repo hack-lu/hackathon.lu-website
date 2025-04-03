@@ -96,3 +96,15 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 ![YALTF (Yet Another License Tool and Framework)](/images/projects/yaltf.png)
 
 [YALTF](https://github.com/yaltf/yaltf)  is a tool designed to scan and gather software licenses across multiple remote systems. It connects to target systems via SSH and collects information about installed packages and their associated licenses. It features Remote system scanning via SSH, Parallel scanning of multiple targets, Support for CentOS, Fedora, RHEL (Rocky) and OpenSUSE, Structured JSON output. This tool was initially developed by the International Committee of the Red Cross (ICRC) in collaboration with Cortex Security S.A.
+
+### IDPS-ESCAPE
+
+![IDPS-ESCAPE logo](/images/projects/idps-escape-logo.png)
+
+[IDPS-ESCAPE](https://github.com/AbstractionsLab/idps-escape) (Intrusion Detection and Prevention Systems for Evading Supply Chain Attacks and Post-compromise Effects), part of project [CyFORT](https://abstractionslab.com/index.php/research-and-development/cyfort/), is an open-source SOAR system powered by a dedicated anomaly detection toolbox (**ADBox**), integrated with open-source software such as Wazuh and Suricata. The ADBox provides an extensible framework for integrating different AD algorithms and currently includes an implementation of MTAD-GAT, a Multivariate Time-series Anomaly Detection (MTAD) algorithm relying on Graph Attention Networks (GAT).
+
+### SATRAP
+
+![SATRAP logo](/images/projects/satrap-logo.png)
+
+[SATRAP](https://github.com/AbstractionsLab/satrap-dl) (Semi-Automated Threat Reconnaissance and Analysis Platform) part of project [CyFORT](https://abstractionslab.com/index.php/research-and-development/cyfort/), is an open-source, cross-platform software aimed at supporting computer-aided analysis of cyber threat intelligence (CTI) by leveraging automated reasoning and inference. At its core, SATRAP implements a knowledge representation system (KRS) consisting of a CTI knowledge base coupled with a reasoning engine for inferring new knowledge, built on top of TypeDB. The KRS grounds SATRAP into formal underpinnings, enabling the introduction of semantics into the storage, processing, and analysis of CTI.
