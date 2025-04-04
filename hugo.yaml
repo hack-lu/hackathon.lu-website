@@ -41,6 +41,9 @@ menu:
     - name: Topics
       pageRef: /topics
       weight: 3
+    - name: Datasets
+      pageRef: /datasets
+      weight: 3
     - name: Practical
       pageRef: /practical
       weight: 4
