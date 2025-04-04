@@ -51,6 +51,19 @@ Explore innovative ways to collect, analyze, and share threat intelligence to en
 | The goal is to create documentation for what to look at when trying to answer "Is the user activity of user X on MISP suspicious?". The doc should contain information on how to interpret logs, audit info... This falls under larger umbrella of how to detect and analyze potential abuse on a MISP instance.|
 | Task Lead: |
 
+#### Task - Review and update the MISP generated Suricata rules
+| Task MISP-SURICATA-RULES|
+| :--|
+| Review and update the way MISP generated Suricata rules possibly using datasets feature of stable Suricata versions|
+| Task Lead: **Eric Leblond**  - Suricata contributor|
+
+#### Task - Connect Suricata 8 dataset in JSON format feature with MISP
+| Task MISP-SURICATA-DATAJSON|
+| :--|
+| Review and update the way MISP generated Suricata rules possibly using datasets feature of stable Suricata versions|
+| Reference<br> - [Dataset with JSON format support PR](https://github.com/OISF/suricata/pull/12863)
+| Task Lead: **Eric Leblond**  - Suricata contributor|
+
 ### Digital Forensics and Incident Response
 
 Delve into tools and methodologies for investigating cyber incidents, uncovering evidence, and responding effectively to mitigate impact.
