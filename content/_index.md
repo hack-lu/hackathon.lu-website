@@ -29,3 +29,8 @@ or questions.  You can also propose new projects during the registration.
 
 If you want to [sponsor the event](/sponsoring/), don't hesitate to contact us.
 
+## Internet & Network Sponsors
+
+[![Post](/images/post.png)](https://post.lu/)
+[![Conostix](/images/conostix.png)](https://conostix.com/)
+
