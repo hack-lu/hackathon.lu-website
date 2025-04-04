@@ -150,6 +150,26 @@ Create and share educational resources (e.g. CTF challenges), training modules, 
 ### Policy and Cybersecurity
 Improve open source toolings to support policies, regulations, and frameworks to address the challenges and opportunities at the intersection of governance and cybersecurity.
 
+### Lookyloo
+
+Website capture interface
+
+#### Tasks
+
+- Implement dropdown to select which proxy to use for the capture (by country)
+
+### Virgil
+
+Ansible deployment of Lacus, Lookyloo, URL Monitoring and Pandora.
+
+#### Tasks
+
+- Review the preliminary playbooks
+- Test the ansible playbooks on live systems
+- Document the installation process
+- Pre-configure the modules from a central file
+- Validate the updating the services works as expected
+
 ### YALTF (Yet Another License Tool and Framework)
 #### Tasks: ***(Click for more details)***
 <details>
