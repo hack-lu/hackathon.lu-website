@@ -78,7 +78,6 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 
 [cocktailparty](https://github.com/flowintel/CocktailParty) is a websocket data brocker system based on the [phoenix framework](https://www.phoenixframework.org/).
 
-
 ### Mercator
 
 ![](/images/projects/logo4c.png) 

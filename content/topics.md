@@ -64,6 +64,34 @@ Explore innovative ways to collect, analyze, and share threat intelligence to en
 | Reference<br> - [Dataset with JSON format support PR](https://github.com/OISF/suricata/pull/12863)
 | Task Lead: **Eric Leblond**  - Suricata contributor|
 
+#### Task - Distribute Certificate transparency logs with Cocktailparty
+| Task COCKTAILPARTY-CERTSTREAM|
+| :--|
+| Integrate calidog's certstream watcher/parser in cocktailparty as a new connection/source. Allow for collection from additional log_lists |
+| Reference<br> - [https://github.com/CaliDog/certstream-server](https://github.com/CaliDog/certstream-server)
+| Task Lead: **Jean-Louis Huynen**  - Cocktailparty contributor|
+
+#### Task - Create admin-defined filters in Cocktailparty
+| Task COCKTAILPARTY-ADMINFILTERS|
+| :--|
+| Create admin-defined filters to apply on sources before dispatching to channels. |
+| Reference<br> - [https://github.com/flowintel/cocktailparty](https://github.com/flowintel/cocktailparty)
+| Task Lead: **Jean-Louis Huynen**  - Cocktailparty contributor|
+
+#### Task - Create user-defined filters in Cocktailparty
+| Task COCKTAILPARTY-USERFILTERS|
+| :--|
+| Create user-defined filters to apply on channels, before pushing into the websocket. |
+| Reference<br> - [https://github.com/flowintel/cocktailparty](https://github.com/flowintel/cocktailparty)
+| Task Lead: **Jean-Louis Huynen**  - Cocktailparty contributor|
+
+#### Task - Improve realtime-py for cocktailparty stream consumption
+| Task COCKTAILPARTY-PYTHON-LIB|
+| :--|
+| Upstream realtime-py significantly diverged from flowintel's current fork. The task consists of reviewing the current code, remove supabase-related parts, play with the library or write tests, and most importantly find a new name =) |
+| References<br> - [https://github.com/flowintel/realtime-py](https://github.com/flowintel/realtime-py)<br> - [PR dating before upstream refacto](https://github.com/supabase/realtime-py/pull/68)
+| Task Lead: **Jean-Louis Huynen**  - Cocktailparty contributor|
+
 ### Digital Forensics and Incident Response
 
 Delve into tools and methodologies for investigating cyber incidents, uncovering evidence, and responding effectively to mitigate impact.
