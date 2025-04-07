@@ -23,7 +23,7 @@ or questions.  You can also propose new projects during the registration.
 
 ## Organized by
 
-[![CIRCL](https://www.circl.lu/assets/images/circl-logo.png)](https://circl.lu/)
+[![CIRCL](/images/circl-logo.png)](https://circl.lu/)
 
 ## Sponsors
 
