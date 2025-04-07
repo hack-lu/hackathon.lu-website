@@ -92,6 +92,19 @@ Explore innovative ways to collect, analyze, and share threat intelligence to en
 | References<br> - [https://github.com/flowintel/realtime-py](https://github.com/flowintel/realtime-py)<br> - [PR dating before upstream refacto](https://github.com/supabase/realtime-py/pull/68)
 | Task Lead: **Jean-Louis Huynen**  - Cocktailparty contributor|
 
+#### Task - Integrate MISP modules into AIL
+| Task AIL-MISP-Module |
+| :--|
+| Task Lead: |
+| References<br> - [AIL](https://github.com/ail-project/ail-framework)<br> - [MISP Modules](https://github.com/MISP/misp-modules) |
+
+#### Task - Improve AIL Language detection
+| Task AIL-Languages                                                                                                                                                                                                                                                                                                                                                    |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AIL is using CLD3 and a new version of lexilange to detect chats languages. <br>Improve Lexilang's language dictionary <br> Propose an alternative to CLD3 for language detection that supports a broader range of languages with improved memory efficiency and performance <br>Propose an alternative to ISO 639-3 for representing unsupported regional languages. |
+| Task Lead: **Aurelien Thirion** - AIL Project                                                                                                                                                                                                                                                                                                                         |
+| References<br> - [AIL](https://github.com/ail-project/ail-framework)<br> - [Lexilang](https://github.com/ail-project/LexiLang/tree/ail)<br> - [AIL Languages detection](https://github.com/ail-project/ail-framework/blob/langs/bin/lib/Language.py)                                                                                                                  |
+
 ### Digital Forensics and Incident Response
 
 Delve into tools and methodologies for investigating cyber incidents, uncovering evidence, and responding effectively to mitigate impact.
