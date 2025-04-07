@@ -24,10 +24,13 @@ The discount code is HACKATHON-2025.
 </noscript>
 </html>
 
+# Hackathon Modus Operandi
+
+- [Details about the Modus Operandi at the Hackathon](https://discourse.ossbase.org/t/hackathon-lu-modus-operandi/)
+
 # Contact
 
 If you need to contact the hack.lu team, please use the email: info(AT)hack(DOT)lu
-
 
 # Register a new project
 
