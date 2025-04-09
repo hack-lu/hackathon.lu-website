@@ -295,3 +295,38 @@ Ansible deployment of Lacus, Lookyloo, URL Monitoring and Pandora.
 </details>
 
 [YALTF Github Repo](https://github.com/yaltf/yaltf)
+
+### IDPS-ESCAPE  
+
+Tasks partially based on the roadmap of [IDPS-ESCAPE](https://github.com/AbstractionsLab/idps-escape) focusing on the **ADBox** [subsystem](https://github.com/AbstractionsLab/idps-escape/blob/main/docs/manual/README.md#adbox)
+
+#### Tasks
+
+- Suggest (or add) new reusable anomaly detection use case scenarios, i.e., other than the ones geared towards resource usage monitoring
+- Brainstorm on tailoring the underlying ADBox algorithms to specific SOC operations, e.g., to improve the detection of specific types of anomalies, such as those related to user behavior, network traffic, or system performance
+- Enhance the existing Wazuh ADBox integration: improve the [visualization](https://github.com/AbstractionsLab/idps-escape/blob/main/docs/manual/detector_data_stream.md) and reporting capabilities of ADBox to provide more meaningful insights into detected anomalies
+- Suggest approaches for automating the creation of incident response cases based on ADBox detections, e.g., via the [OpenCTI Wazuh connector](https://github.com/misje/opencti-wazuh-connector) or the MISP API
+- Improve the scalability and performance of ADBox to handle larger volumes of ingested data
+- Simplify the [ADBox engine](https://github.com/AbstractionsLab/idps-escape/blob/main/docs/manual/engine.md) as well as the [training](https://abstractionslab.github.io/idps-escape/docs/traceability/SWD.html#SWD-001) and [prediction](https://abstractionslab.github.io/idps-escape/docs/traceability/SWD.html#SWD-002) pipelines
+- train new models for anomaly detection using large amounts of data to assess the performance and accuracy of the underlying anomaly detection algorithm(s)
+- Suggest or add new automated response mechanisms aimed at preventive measures directly integrated into Wazuh, towards the SOAR goal of IDPS-ESCAPE
+- Suggest simulation specifications for pairs of attack scenarios and automated response mechanisms, e.g., to assess the impact of response mechanism suites
+- **Algorithmic agility** (choosing between multiple algorithms for the same
+functionality): Integrate different AD algorithms into the ADBox engine to benchmark their performance and accuracy in the context of IDS
+- add efficient **algorithmic multiplexing** (choosing between multiple implementations of the same algorithm)
+
+### SATRAP
+
+Tasks partially based on the roadmap of [SATRAP-DL](https://github.com/AbstractionsLab/satrap-dl)
+
+#### Tasks
+
+- **Identify sets of preconditions** commonly used to establish correlations (if-then scenarios) to convert to inference rules in SATRAP
+- **Implement new inference rules** for SATRAP in TypeQL
+- **Automate data ingestion from MISP into the SKB of SATRAP**: Design and implement a stream-oriented module for retrieving IOCs and other data from a MISP instance and running the SATRAP ETL process on this data, while keeping time and space complexity under control
+- Identify candidate high-level functions to be added to the SATRAP `CTIAnalysisToolbox`
+- Integrate functions of SATRAP with existing CTI playbooks, similar to the use of PyMISP and pycti, e.g., [the threat actor profiling playbook by MISP](https://github.com/MISP/misp-playbooks/blob/main/misp-playbooks/pb_threat_actor_profiling-with_output.ipynb)
+- Suggest performance-related improvements for the SATRAP ETL (Extract-Transform-Load) subsystem, at an algorithmic level
+- **Explainable inference**: Study the integration of visual explanations in Jupyter Notebooks
+- Add support for ingesting STIX 2.1 custom and metadata objects
+- **Reverse ETL**: Transform TypeQL results into STIX2.1 objects
