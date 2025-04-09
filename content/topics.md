@@ -171,6 +171,11 @@ Use and create open data and datasets to support cybersecurity research, trainin
 
 Focus on creating and improving APIs and tools that enable seamless integration and interoperability between different cybersecurity platforms.
 
+#### Task - Create MISPerer
+| Task: MISPerer|
+| :------------ |
+| MISPerer leverages Anthropics's Model Context Protocol (MCP) to bridge Large Language Models (LLMs) with the MISP (Malware Information Sharing Platform & Threat Sharing) system. This simplifies interaction, allowing users and other systems to query MISP's threat intelligence data through intuitive natural language prompts. |
+
 ### Mercator  
 
 Work on auto-discovery and update of existing objects using the [REST API](https://dbarzin.github.io/mercator/api/).
