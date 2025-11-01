@@ -112,3 +112,8 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 
 ![MISPerer logo](/images/projects/MISPerer-logo.png)
 [MISPerer](https://github.com/Eacus/misp-mcp) MISPerer implements Anthropics's Model Context Protocol (MCP) to enable Large Language Models (LLMs) to interact directly with the MISP threat intelligence platform. This allows users and automated systems to query and analyze MISP data using natural language prompts.
+
+### Range42
+
+![range42 logo](/images/projects/range42-logo.png)
+[Range42](https://github.com/range42) is a modular cyber range platform designed for real-world readiness. We build, deploy, and document offensive, defensive, and hybrid cyber training environments using reproducible, infrastructure-as-code methodologies.
