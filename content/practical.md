@@ -9,16 +9,16 @@ toc: false
 
 Find the hotel room booking form here: https://reservations.cubilis.eu/alvisse-parc-hotel-luxembourg
 
-The discount code is HACKATHON-2025.
+The discount code is HACKATHON-2026.
 
 # Registration
 
 <html>
-<pretix-widget event="https://pretix.eu/circl/hackathon/" single-item-select="button"></pretix-widget>
+<pretix-widget event="https://pretix.eu/circl/hackathon-2026/"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
-            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/circl/hackathon/">click here</a>.
+            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/circl/hackathon-2026/">click here</a>.
         </div>
     </div>
 </noscript>

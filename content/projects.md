@@ -1,10 +1,10 @@
 ---
 title: Projects at hackathon.lu
-description: Team and Projects at hackathon.lu 2025
+description: Team and Projects at hackathon.lu 2026
 toc: true
 ---
 
-## Projects and Team at hackathon.lu 2025
+## Projects and Team at hackathon.lu 2026
 
 The following open-source projects will be at the hackathon. If you'd like to include your project, feel free to [contact us](https://hackathon.lu/practical/)!
 

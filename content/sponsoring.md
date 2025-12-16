@@ -1,10 +1,10 @@
 ---
-title: Sponsoring hackathon.lu 2025
-description: Sponsoring hackathon.lu 2025 
+title: Sponsoring hackathon.lu 2026
+description: Sponsoring hackathon.lu 2026
 toc: true
 ---
 
-Sponsoring the 2025 Hackathon is a unique opportunity to connect with top cybersecurity talent, support innovation, and gain early access to cutting-edge open-source security solutions.
+Sponsoring the 2026 Hackathon is a unique opportunity to connect with top cybersecurity talent, support innovation, and gain early access to cutting-edge open-source security solutions.
 
 Key takeaways:
 
@@ -19,7 +19,7 @@ Key takeaways:
 
 # Contact
 
-Contact us at info(AT)hack(DOT)lu if you want to sponsor [hackathon.lu](https://hackathon.lu) which could be also combined with hack.lu 2025 sponsoring.
+Contact us at info(AT)hack(DOT)lu if you want to sponsor [hackathon.lu](https://hackathon.lu) which could be also combined with hack.lu 2026 sponsoring.
 
 We are open to any specific partnership proposals as well. Do not hesitate to get in touch for any inquiries.
 

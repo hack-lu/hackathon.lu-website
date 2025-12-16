@@ -1,12 +1,12 @@
 ---
 title: Topics at hackathon.lu
-description: Topics at hackathon.lu 2025
+description: Topics at hackathon.lu 2026
 toc: true
 ---
 
-## Topics and Projects at hackathon.lu 2025
+## Topics and Projects at hackathon.lu 2026
 
-A series of topics are available for Hackathon 2025, along with potential task ideas. This list will be regularly updated based on feedback and the [projects](/projects/) joining the event.
+A series of topics are available for Hackathon 2026, along with potential task ideas. This list will be regularly updated based on feedback and the [projects](/projects/) joining the event.
 
 ### Cyber Threat Intelligence
 
