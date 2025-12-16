@@ -1,10 +1,10 @@
 ---
 title: Projects at hackathon.lu
-description: Team and Projects at hackathon.lu 2025
+description: Team and Projects at hackathon.lu 2026
 toc: true
 ---
 
-## Projects and Team at hackathon.lu 2025
+## Projects and Team at hackathon.lu 2026
 
 The following open-source projects will be at the hackathon. If you'd like to include your project, feel free to [contact us](https://hackathon.lu/practical/)!
 
@@ -112,3 +112,8 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 
 ![MISPerer logo](/images/projects/MISPerer_logo.png)
 [MISPerer](https://github.com/Eacus/misp-mcp) MISPerer implements Anthropics's Model Context Protocol (MCP) to enable Large Language Models (LLMs) to interact directly with the MISP threat intelligence platform. This allows users and automated systems to query and analyze MISP data using natural language prompts.
+
+### Range42
+
+![range42 logo](/images/projects/range42-logo.png)
+[Range42](https://github.com/range42) is a modular cyber range platform designed for real-world readiness. We build, deploy, and document offensive, defensive, and hybrid cyber training environments using reproducible, infrastructure-as-code methodologies.
