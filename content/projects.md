@@ -108,9 +108,9 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 
 [SATRAP](https://github.com/AbstractionsLab/satrap-dl) (Semi-Automated Threat Reconnaissance and Analysis Platform) part of project [CyFORT](https://abstractionslab.com/index.php/research-and-development/cyfort/), is an open-source, cross-platform software aimed at supporting computer-aided analysis of cyber threat intelligence (CTI) by leveraging automated reasoning and inference. At its core, SATRAP implements a knowledge representation system (KRS) consisting of a CTI knowledge base coupled with a reasoning engine for inferring new knowledge, built on top of TypeDB. The KRS grounds SATRAP into formal underpinnings, enabling the introduction of semantics into the storage, processing, and analysis of CTI.
 
-###
+### MISPERER
 
-![MISPerer logo](/images/projects/MISPerer-logo.png)
+![MISPerer logo](/images/projects/MISPerer_logo.png)
 [MISPerer](https://github.com/Eacus/misp-mcp) MISPerer implements Anthropics's Model Context Protocol (MCP) to enable Large Language Models (LLMs) to interact directly with the MISP threat intelligence platform. This allows users and automated systems to query and analyze MISP data using natural language prompts.
 
 ### Range42
