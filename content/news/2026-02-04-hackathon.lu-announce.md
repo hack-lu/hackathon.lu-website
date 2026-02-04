@@ -63,6 +63,10 @@ Attendance for the **conference morning** and participation in the **hackathon**
 Participation in the hackathon requires registration.  
 The conference morning is open to interested members of the public.
 
+👉 Please register a talk through our CfP system: https://pretalx.com/hackathon-2026/cfp
+
+Submissions will be reviewed by a program committee, which will select the talks for the conference morning.
+
 ---
 
 ## About hackathon.lu
