@@ -3,22 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hackathon.lu/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackathon.lu/tags/announce/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackathon.lu/tags/hackathon.lu/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hackathon.lu/2026/02/04/hackathon.lu-2026-announced/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hackathon.lu/news/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hackathon.lu/tags/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hackathon.lu/2025/04/11/hackathon.lu-2025-outcome/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackathon.lu/2024/12/24/hackathon.lu-2025-announced/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hackathon.lu/news/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hackathon.lu/tags/</loc>
-    <lastmod>2024-12-24T00:00:00+00:00</lastmod>
+    <loc>https://hackathon.lu/datasets/</loc>
   </url><url>
     <loc>https://hackathon.lu/practical/</loc>
   </url><url>
@@ -27,5 +35,7 @@
     <loc>https://hackathon.lu/series/</loc>
   </url><url>
     <loc>https://hackathon.lu/sponsoring/</loc>
+  </url><url>
+    <loc>https://hackathon.lu/topics/</loc>
   </url>
 </urlset>
