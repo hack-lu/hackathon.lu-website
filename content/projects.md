@@ -117,3 +117,8 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 
 ![range42 logo](/images/projects/range42-logo.png)
 [Range42](https://github.com/range42) is a modular cyber range platform designed for real-world readiness. We build, deploy, and document offensive, defensive, and hybrid cyber training environments using reproducible, infrastructure-as-code methodologies.
+
+### Monarc
+
+![monarc logo](/images/projects/monarc-logo.png)
+[Monarc](https://github.com/monarc-project) is an open-source tool and a method based on ISO/IEC 27005 that helps conduct an optimised, precise, and repeatable risk assessment. The code is based on php/Laminas backend, Angularjs frontend and MariaDB database. It also has some related services based on Python/Flask and Postgresql. The official website is available <a href="https://github.com/monarc-project" target="_blank" rel="noopener">here</a>.
