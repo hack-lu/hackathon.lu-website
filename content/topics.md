@@ -330,3 +330,59 @@ Tasks partially based on the roadmap of [SATRAP-DL](https://github.com/Abstracti
 - **Explainable inference**: Study the integration of visual explanations in Jupyter Notebooks
 - Add support for ingesting STIX 2.1 custom and metadata objects
 - **Reverse ETL**: Transform TypeQL results into STIX2.1 objects
+
+
+### MONARC Task 1 - AI Copilot for FrontOffice (ISO Assistant).
+
+#### Context
+For Information Security Officers (ISOs), modelling assets and structuring an analysis in MONARC FrontOffice can be difficult without experience and clear guidance.
+
+#### Challenge
+Build an AI-powered chatbot integrated with MONARC FrontOffice that helps ISOs with tool usage, modelling decisions, and risk reduction recommendations.
+
+**Example questions:**
+- “I am modelling the context for the analysis. Where should I start?”
+- "What are the next steps after the context establishment?"
+- “Where should I place this asset, under which primary asset?”
+- “What secondary assets structure would you suggest?”
+- “Should this asset be global or local for this particular scenario?”
+- “What context would you suggest for this asset?”
+- "What risk reduction recommendations would you suggest?"
+
+#### Expected solution
+- A chat UI embedded in or connected to MONARC FrontOffice.
+- A trained model and/or a knowledge base covering MONARC usage, MONARC best practices, and ISO/IEC 27005 method guidance, so that even non-experts can use the tool effectively.
+- Use of the MONARC Object Sharing Platform (MOSP) API (https://objects.monarc.lu/) for necessary data fetching, correlation, and reuse.
+- Use of an on-premise LLM to interpret user questions and generate clear, comprehensive answers.
+- Basic guidance mechanisms (ask clarifying questions, avoid hallucinations, provide examples).
+
+#### Requirements
+- Integration within or alongside MONARC FrontOffice.
+- Open-source technologies only.
+- LLM deployable on-premise (no external API dependency).
+
+
+#### MONARC Task 2 - AI Chatbot for Risk Evaluation (Data-Driven Suggestions).
+
+#### Context
+Risk evaluation in MONARC often depends on expert judgment and sector-specific knowledge, which can lead to inconsistency and long analysis cycles.
+This topic explores how AI can assist risk analysts with data-driven risk evaluation suggestions.
+
+#### Challenge
+Build an AI chatbot that supports users in qualifying risks by suggesting evaluation values (e.g. threat probability, likelihood and impact levels) based on sector-specific statistics.
+
+**The chatbot should:**
+- Use sector(s) of activity selected for the analysis.
+- Suggest risk evaluation values using aggregated data (averages/ranges per sector).
+- Provide clear explanations (“why is this value proposed?”) and optionally a confidence indicator.
+
+#### Expected solution
+- Data aggregation pipeline (what exactly - sector averages/ranges, in which way - daily basis aggregated collection, or when the analysis is finished).
+- Chat interface to query the assistant.
+- On-premise LLM that analyses the aggregated statistics and generates explanations.
+- Optional / Bonus: compare user input vs sector-based suggestions.
+
+#### Requirements
+- Open-source technologies only.
+- LLM deployable on-premise (no external API dependency).
+- Conceptual or technical integration with MONARC.

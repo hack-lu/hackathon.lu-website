@@ -121,4 +121,4 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 ### Monarc
 
 ![monarc logo](/images/projects/monarc-logo.png)
-[Monarc](https://github.com/monarc-project) is an open-source tool and a method based on ISO/IEC 27005 that helps conduct an optimised, precise, and repeatable risk assessment. The code is based on php/Laminas backend, Angularjs frontend and MariaDB database. It also has some related services based on Python/Flask and Postgresql. The official website is available <a href="https://github.com/monarc-project" target="_blank" rel="noopener">here</a>.
+[Monarc](https://github.com/monarc-project) is an open-source tool and a method based on ISO/IEC 27005 that helps conduct an optimised, precise, and repeatable risk assessment. The code is based on php/Laminas backend, Angularjs frontend and MariaDB database. It also has some related services based on Python/Flask and Postgresql. The official website is available <a href="https://monarc.lu" target="_blank" rel="noopener">here</a>.
