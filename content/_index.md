@@ -29,6 +29,10 @@ or questions.  You can also propose new projects during the registration.
 
 If you want to [sponsor the event](/sponsoring/), don't hesitate to contact us.
 
+
+[![Post](/images/sponsors/laif.png)](https://aifactory.lu/)
+[![Post](/images/sponsors/eu.jpg)](https://europa.eu/)
+
 ## Internet & Network Sponsors
 
 [![Post](/images/post.png)](https://post.lu/)
