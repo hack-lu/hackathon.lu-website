@@ -98,12 +98,21 @@ Explore innovative ways to collect, analyze, and share threat intelligence to en
 | Task Lead: |
 | References<br> - [AIL](https://github.com/ail-project/ail-framework)<br> - [MISP Modules](https://github.com/MISP/misp-modules) |
 
+#### **Task** HOPLITE-MISP-Modules (IA aspects)
+
+|   **Task** HOPLITE-MISP-Modules   |
+| --- |
+|   Add MISP modules to provide containerized analysis of data types including but not limited to Video, Images, Audio. Modules should leverage the [OpenAPI interface](https://www.misp-project.org/openapi/ "https://www.misp-project.org/openapi/") (see reference links below). Modules should extend functionality to MISP/AIL.   |
+|   **Task Lead**: Alex Cronin from UCD CCI on the HOPLITE Project   |
+|   References  *   [https://hoplite-project.eu/about/](https://hoplite-project.eu/about/ "https://hoplite-project.eu/about/")     *   [https://github.com/MISP/misp-modules](https://github.com/MISP/misp-modules "https://github.com/MISP/misp-modules")      *   [https://github.com/MISP/misp-modules/tree/main/website](https://github.com/MISP/misp-modules/tree/main/website "https://github.com/MISP/misp-modules/tree/main/website")       *   [https://www.misp-project.org/openapi/](https://www.misp-project.org/openapi/ "https://www.misp-project.org/openapi/")         |
+
 #### Task - Improve AIL Language detection
 | Task AIL-Languages                                                                                                                                                                                                                                                                                                                                                    |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AIL is using CLD3 and a new version of lexilange to detect chats languages. <br>Improve Lexilang's language dictionary <br> Propose an alternative to CLD3 for language detection that supports a broader range of languages with improved memory efficiency and performance <br>Propose an alternative to ISO 639-3 for representing unsupported regional languages. |
 | Task Lead: **Aurelien Thirion** - AIL Project                                                                                                                                                                                                                                                                                                                         |
 | References<br> - [AIL](https://github.com/ail-project/ail-framework)<br> - [Lexilang](https://github.com/ail-project/LexiLang/tree/ail)<br> - [AIL Languages detection](https://github.com/ail-project/ail-framework/blob/langs/bin/lib/Language.py)                                                                                                                  |
+
 
 ### Digital Forensics and Incident Response
 

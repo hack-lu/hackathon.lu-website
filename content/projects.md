@@ -72,6 +72,12 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 
 [Suricata](https://suricata.io/) is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
 
+### HOPLITE
+
+![](https://hoplite-project.eu/_astro/hoplite_full_no_word.BTCVXS3D_T2kPC.webp)
+
+[AI-Powered Data Analysis for LEAs - HOPLITE](https://hoplite-project.eu/) enables law enforcement agencies to identify and prioritise online threats in real time. 
+
 ### cocktailparty
 
 ![](/images/projects/logo-cocktail-party-horizontal-coul.png)
