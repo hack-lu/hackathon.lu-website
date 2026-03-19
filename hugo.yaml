@@ -2,6 +2,8 @@
 title: hackathon.lu - The Open Source Security Software Hackathon
 baseurl: https://hackathon.lu/
 
+author:
+  email: info@circl.lu
 # import hextra as module
 module:
   imports:
