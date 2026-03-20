@@ -18,7 +18,7 @@ The following open-source projects will be at the hackathon. If you'd like to in
 
 ![](/images/projects/ail-logo.png)
 
-[AIL Project](https://www.ail-project.org/) is an open source framework composed of different modules to collect, crawl, dig and analyse unstructured data. AIL includes an extensible Python-based framework for analysis of unstructure information collected via an advanced Crawler manager or from different feeders (such as Twitter, Discord, Telegram Stream providers) or custom feeders. 
+[AIL Project](https://www.ail-project.org/) is an open source framework composed of different modules to collect, crawl, dig and analyse unstructured data. AIL includes an extensible Python-based framework for analysis of unstructure information collected via an advanced Crawler manager or from different feeders (such as Twitter, Discord, Telegram Stream providers) or custom feeders.
 
 ### Kunai
 
@@ -31,6 +31,12 @@ The following open-source projects will be at the hackathon. If you'd like to in
 ![](images/projects/flowintel-logo.png)
 
 [Flowintel](https://github.com/flowintel/flowintel) is an open-source platform designed to assist analysts in organizing their cases and tasks. It features a range of tools and functionalities to enhance workflow efficiency.
+
+### Rulezet
+
+![](/images/projects/rulezet-logo.png)
+
+[Rulezet](https://rulezet.org/) Rulezet is an open-source web platform for sharing, evaluating, improving, and managing cybersecurity detection rules (YARA, Sigma, Suricata, etc). It aims to foster collaboration among professionals and enthusiasts to improve the quality and reliability of detection rules.
 
 ### Lacus
 
@@ -61,7 +67,7 @@ The following open-source projects will be at the hackathon. If you'd like to in
 [VulnTrain](https://github.com/vulnerability-lookup/VulnTrain) is a tool for generating diverse datasets and models using vulnerability data from Vulnerability-Lookup.
 
 It leverages all vulnerability advisory sources supported by Vulnerability-Lookup to train models, utilizing over one million JSON records.
-Additionally, data from the ``vulnerability-lookup:meta`` container, including enrichment sources such as ``vulnrichment`` and ``Fraunhofer FKIE``, is incorporated to enhance model quality.
+Additionally, data from the `vulnerability-lookup:meta` container, including enrichment sources such as `vulnrichment` and `Fraunhofer FKIE`, is incorporated to enhance model quality.
 
 Various models are already [available on Hugging Face](https://huggingface.co/CIRCL) and we are always interested in new ideas (datasets, trainers, integration with Vulnerability-Lookup, ...)!
 
@@ -76,7 +82,7 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 
 ![](https://hoplite-project.eu/_astro/hoplite_full_no_word.BTCVXS3D_T2kPC.webp)
 
-[AI-Powered Data Analysis for LEAs - HOPLITE](https://hoplite-project.eu/) enables law enforcement agencies to identify and prioritise online threats in real time. 
+[AI-Powered Data Analysis for LEAs - HOPLITE](https://hoplite-project.eu/) enables law enforcement agencies to identify and prioritise online threats in real time.
 
 ### cocktailparty
 
@@ -86,7 +92,7 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 
 ### Mercator
 
-![](/images/projects/logo4c.png) 
+![](/images/projects/logo4c.png)
 
 [Mercator](https://github.com/dbarzin/mercator) is a powerful and versatile open-source web application designed to facilitate the mapping of information systems, as outlined in the [Mapping The Information System Guide](https://cyber.gouv.fr/en/publications/mapping-information-system) by [ANSSI](https://cyber.gouv.fr/en). Whether you're an operator of vital importance or part of a broader IT governance framework, Mercator is an essential tool for gaining visibility, control, and ensuring the resilience of your information systems.
 
@@ -94,13 +100,13 @@ Various models are already [available on Hugging Face](https://huggingface.co/CI
 
 ![](/images/projects/sysdiagnose-logo.png)
 
-[sysdiagnose](https://github.com/EC-DIGIT-CSIRC/sysdiagnose) is an open-source framework developed to facilitate the analysis of the Apple sysdiagnose files and especially the one generated on mobile devices (iOS / iPadOS).  In the light of targeted attacks against journalists, activist, representatives from the civil society and politicians, it empowered incident response team to review device behaviour and ensure their integrity.  This tool is initially the result of a joint effort between EC DIGIT CSOC (European Commission DG DIGIT) and CERT-EU (https://cert.europa.eu/).
+[sysdiagnose](https://github.com/EC-DIGIT-CSIRC/sysdiagnose) is an open-source framework developed to facilitate the analysis of the Apple sysdiagnose files and especially the one generated on mobile devices (iOS / iPadOS). In the light of targeted attacks against journalists, activist, representatives from the civil society and politicians, it empowered incident response team to review device behaviour and ensure their integrity. This tool is initially the result of a joint effort between EC DIGIT CSOC (European Commission DG DIGIT) and CERT-EU (https://cert.europa.eu/).
 
 ### YALTF (Yet Another License Tool and Framework)
 
 ![YALTF (Yet Another License Tool and Framework)](/images/projects/yaltf.png)
 
-[YALTF](https://github.com/yaltf/yaltf)  is a tool designed to scan and gather software licenses across multiple remote systems. It connects to target systems via SSH and collects information about installed packages and their associated licenses. It features Remote system scanning via SSH, Parallel scanning of multiple targets, Support for CentOS, Fedora, RHEL (Rocky) and OpenSUSE, Structured JSON output. This tool was initially developed by the International Committee of the Red Cross (ICRC) in collaboration with Cortex Security S.A.
+[YALTF](https://github.com/yaltf/yaltf) is a tool designed to scan and gather software licenses across multiple remote systems. It connects to target systems via SSH and collects information about installed packages and their associated licenses. It features Remote system scanning via SSH, Parallel scanning of multiple targets, Support for CentOS, Fedora, RHEL (Rocky) and OpenSUSE, Structured JSON output. This tool was initially developed by the International Committee of the Red Cross (ICRC) in collaboration with Cortex Security S.A.
 
 ### IDPS-ESCAPE
 
