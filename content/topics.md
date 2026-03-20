@@ -106,12 +106,21 @@ Explore innovative ways to collect, analyze, and share threat intelligence to en
 |   **Task Lead**: Alex Cronin from UCD CCI on the HOPLITE Project   |
 |   References  *   [https://hoplite-project.eu/about/](https://hoplite-project.eu/about/ "https://hoplite-project.eu/about/")     *   [https://github.com/MISP/misp-modules](https://github.com/MISP/misp-modules "https://github.com/MISP/misp-modules")      *   [https://github.com/MISP/misp-modules/tree/main/website](https://github.com/MISP/misp-modules/tree/main/website "https://github.com/MISP/misp-modules/tree/main/website")       *   [https://www.misp-project.org/openapi/](https://www.misp-project.org/openapi/ "https://www.misp-project.org/openapi/")         |
 
-#### Task - Improve AIL Language detection
-| Task AIL-Languages                                                                                                                                                                                                                                                                                                                                                    |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AIL is using CLD3 and a new version of lexilange to detect chats languages. <br>Improve Lexilang's language dictionary <br> Propose an alternative to CLD3 for language detection that supports a broader range of languages with improved memory efficiency and performance <br>Propose an alternative to ISO 639-3 for representing unsupported regional languages. |
-| Task Lead: **Aurelien Thirion** - AIL Project                                                                                                                                                                                                                                                                                                                         |
-| References<br> - [AIL](https://github.com/ail-project/ail-framework)<br> - [Lexilang](https://github.com/ail-project/LexiLang/tree/ail)<br> - [AIL Languages detection](https://github.com/ail-project/ail-framework/blob/langs/bin/lib/Language.py)                                                                                                                  |
+
+#### Task — Improve AIL Language Detection for Short Texts
+| Task AIL-Languages-Short-Text                                                                                                                                                                                                                    |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AIL currently uses [PicoLang](https://github.com/ail-project/PicoLang) for language detection on short texts such as chat messages. <br> - Improve Picolang's language dictionaries <br> - Add Support for additional languages.                 |
+| Task Lead: **Aurelien Thirion** - AIL Project                                                                                                                                                                                                    |
+| References<br> - [AIL](https://github.com/ail-project/ail-framework)<br> - [PicoLang](https://github.com/ail-project/PicoLang) <br> - [Languages dictionnaries](https://github.com/ail-project/PicoLang/tree/main/dictionaries)                  |
+
+
+#### Task - Improve AIL Language Detection for Long Texts
+| Task AIL-Languages-Long-Text                                                                                                                                                                                                            |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AIL currently relies on CLD3 for language detection on long texts. <br> Propose an alternative to CLD3 for language detection on large text that supports a broader range of languages with improved memory efficiency and performance. |
+| Task Lead: **Aurelien Thirion** - AIL Project                                                                                                                                                                                           |
+| References<br> - [CLD3](https://github.com/google/cld3) <br> - [AIL Languages detection](https://github.com/ail-project/ail-framework/blob/langs/bin/lib/Language.py)                                                                   |
 
 
 ### Digital Forensics and Incident Response
