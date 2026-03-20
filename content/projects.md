@@ -71,6 +71,15 @@ Additionally, data from the `vulnerability-lookup:meta` container, including enr
 
 Various models are already [available on Hugging Face](https://huggingface.co/CIRCL) and we are always interested in new ideas (datasets, trainers, integration with Vulnerability-Lookup, ...)!
 
+### MISP Workbench
+
+![](/images/projects/misp-workbench-hori-color.jpg)
+
+[MISP Workbench](https://github.com/MISP/misp-workbench) is an analyst-focused threat intelligence platform built to handle large-scale indicator data without the overhead of a full MISP deployment. It ingests feeds from multiple sources — MISP instances, CSV, JSON, and freetext — consolidates them into a unified OpenSearch-backed workspace, and gives analysts the tools to query, correlate, enrich, and hunt across the full corpus from one place.
+
+Built for speed and practicality: run Lucene queries across millions of indicators, schedule recurring hunts for persistent monitoring, enrich IOCs via misp-modules, and push curated results back to MISP or downstream consumers — all without writing one-off scripts or jumping between tools.
+
+
 ### OISF and Suricata
 
 ![](/images/projects/oisf-logo.png)
