@@ -62,6 +62,12 @@ The following open-source projects will be at the hackathon. If you'd like to in
 
 [Vulnerability-Lookup](https://www.vulnerability-lookup.org) facilitates quick correlation of vulnerabilities from various sources, independent of vulnerability IDs, and streamlines the management of Coordinated Vulnerability Disclosure (CVD).
 
+### GCVE
+
+![](https://gcve.eu/logos/gcve.png)
+
+The Global CVE (GCVE) allocation system is a new, decentralized approach to vulnerability identification and numbering, designed to improve flexibility, scalability, and autonomy for participating entities.
+
 ### VulnTrain
 
 [VulnTrain](https://github.com/vulnerability-lookup/VulnTrain) is a tool for generating diverse datasets and models using vulnerability data from Vulnerability-Lookup.
