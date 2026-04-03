@@ -98,13 +98,13 @@ Explore innovative ways to collect, analyze, and share threat intelligence to en
 | Task Lead: |
 | References<br> - [AIL](https://github.com/ail-project/ail-framework)<br> - [MISP Modules](https://github.com/MISP/misp-modules) |
 
-#### **Task** HOPLITE-MISP-Modules (IA aspects)
+#### **Task** HOPLITE-MISP-Modules (AI) 
 
-|   **Task** HOPLITE-MISP-Modules   |
-| --- |
-|   Add MISP modules to provide containerized analysis of data types including but not limited to Video, Images, Audio. Modules should leverage the [OpenAPI interface](https://www.misp-project.org/openapi/ "https://www.misp-project.org/openapi/") (see reference links below). Modules should extend functionality to MISP/AIL.   |
-|   **Task Lead**: Alex Cronin from UCD CCI on the HOPLITE Project   |
-|   References  *   [https://hoplite-project.eu/about/](https://hoplite-project.eu/about/ "https://hoplite-project.eu/about/")     *   [https://github.com/MISP/misp-modules](https://github.com/MISP/misp-modules "https://github.com/MISP/misp-modules")      *   [https://github.com/MISP/misp-modules/tree/main/website](https://github.com/MISP/misp-modules/tree/main/website "https://github.com/MISP/misp-modules/tree/main/website")       *   [https://www.misp-project.org/openapi/](https://www.misp-project.org/openapi/ "https://www.misp-project.org/openapi/")         |
+| **Task** HOPLITE-MISP-Modules |
+| :--|
+| Add MISP modules to provide containerized analysis of data types including but not limited to Video, Images, Audio. Modules should leverage the [OpenAPI interface](https://www.misp-project.org/openapi/ "https://www.misp-project.org/openapi/") (see reference links below). Modules should extend functionality to MISP/AIL. AI services should be local or on a trusted network.|
+| References: <br>- [https://hoplite-project.eu/about/](https://hoplite-project.eu/about/ "https://hoplite-project.eu/about/") <br>- [https://github.com/MISP/misp-modules](https://github.com/MISP/misp-modules "https://github.com/MISP/misp-modules") <br>- [https://github.com/MISP/misp-modules/tree/main/website](https://github.com/MISP/misp-modules/tree/main/website "https://github.com/MISP/misp-modules/tree/main/website")  <br>- [https://www.misp-project.org/openapi/](https://www.misp-project.org/openapi/ "https://www.misp-project.org/openapi/")<br>- https://github.com/MISP/misp-modules-cli |
+| Task Lead: **Alex Cronin** & **David Curran** from UCD CCI on the [HOPLITE Project](https://hoplite-project.eu/about/)|
 
 
 #### Task — Improve AIL Language Detection for Short Texts
