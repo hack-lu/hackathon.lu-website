@@ -117,11 +117,15 @@ Built for speed and practicality: run Lucene queries across millions of indicato
 
 [sysdiagnose](https://github.com/EC-DIGIT-CSIRC/sysdiagnose) is an open-source framework developed to facilitate the analysis of the Apple sysdiagnose files and especially the one generated on mobile devices (iOS / iPadOS). In the light of targeted attacks against journalists, activist, representatives from the civil society and politicians, it empowered incident response team to review device behaviour and ensure their integrity. This tool is initially the result of a joint effort between EC DIGIT CSOC (European Commission DG DIGIT) and CERT-EU (https://cert.europa.eu/).
 
-### YALTF (Yet Another License Tool and Framework)
+### IAMI (Identity & Access Management Integrations)
 
-![YALTF (Yet Another License Tool and Framework)](/images/projects/yaltf.png)
+![IAMI (Identity & Access Management Integrations)](/images/projects/IAMI.svg)
 
-[YALTF](https://github.com/yaltf/yaltf) is a tool designed to scan and gather software licenses across multiple remote systems. It connects to target systems via SSH and collects information about installed packages and their associated licenses. It features Remote system scanning via SSH, Parallel scanning of multiple targets, Support for CentOS, Fedora, RHEL (Rocky) and OpenSUSE, Structured JSON output. This tool was initially developed by the International Committee of the Red Cross (ICRC) in collaboration with Cortex Security S.A.
+[IAMI](https://codeberg.org/icrc-global-cyber-hub/iami) is a Work in Progress Open Source platform that integrates identity and access management to several tools in an automated way (as much as possible). All user-facing applications use Keycloak for single sign-on, and users only need one account to access everything depending on their rights.
+
+The main entry point to the platform is Portal (portal) where users can see all available services and request access to them. Keycloak (id) handles authentication, authorization (via custom made keycloak `group-auth` plugin) and user management. Comprehensive monitoring (Grafana, Loki, Prometheus and Alloy) and analytics using Matomo.
+
+The platform uses official Kubernetes Helms or manifests and is deployed using ArgoCD while custom images are hosted in a privately deployed registry using Harbor. This tool was initially developed by the International Committee of the Red Cross (ICRC) in collaboration with Cortex Security S.A.
 
 ### IDPS-ESCAPE
 

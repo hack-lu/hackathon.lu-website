@@ -1,0 +1,63 @@
+<svg width="1450" height="600" viewBox="0 0 1450 600" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Gradient -->
+    <radialGradient id="g1">
+      <stop offset="0%" stop-color="#22D3EE"></stop>
+      <stop offset="100%" stop-color="#0EA5E9"></stop>
+    </radialGradient>
+
+    <!-- Glow (ONLY for icon) -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4"></feGaussianBlur>
+    </filter>
+
+    <!-- Branch -->
+    <g id="b">
+      <path d="M300 300 Q300 200 300 140" stroke="#22D3EE" stroke-width="1.5" fill="none"></path>
+      <circle cx="300" cy="140" r="10" fill="url(#g1)" filter="url(#glow)"></circle>
+
+      <g stroke="#67E8F9" stroke-width="1" fill="none">
+        <path d="M300 140 Q300 100 300 80"></path>
+        <path d="M300 140 Q340 110 370 90"></path>
+        <path d="M300 140 Q380 140 400 140"></path>
+        <path d="M300 140 Q340 170 370 200"></path>
+        <path d="M300 140 Q300 180 300 210"></path>
+        <path d="M300 140 Q260 170 230 200"></path>
+        <path d="M300 140 Q220 140 200 140"></path>
+        <path d="M300 140 Q260 110 230 90"></path>
+      </g>
+
+      <g fill="#67E8F9" filter="url(#glow)">
+        <circle cx="300" cy="80" r="3"></circle>
+        <circle cx="370" cy="90" r="3"></circle>
+        <circle cx="400" cy="140" r="3"></circle>
+        <circle cx="370" cy="200" r="3"></circle>
+        <circle cx="300" cy="210" r="3"></circle>
+        <circle cx="230" cy="200" r="3"></circle>
+        <circle cx="200" cy="140" r="3"></circle>
+        <circle cx="230" cy="90" r="3"></circle>
+      </g>
+    </g>
+  </defs>
+
+  <!-- ICON (centered vertically) -->
+  <g>
+    <circle cx="300" cy="300" r="35" fill="url(#g1)" filter="url(#glow)"></circle>
+
+    <use href="#b"></use>
+    <use href="#b" transform="rotate(45 300 300)"></use>
+    <use href="#b" transform="rotate(90 300 300)"></use>
+    <use href="#b" transform="rotate(135 300 300)"></use>
+    <use href="#b" transform="rotate(180 300 300)"></use>
+    <use href="#b" transform="rotate(225 300 300)"></use>
+    <use href="#b" transform="rotate(270 300 300)"></use>
+    <use href="#b" transform="rotate(315 300 300)"></use>
+  </g>
+
+  <!-- WORDMARK (crisp, centered, no blur) -->
+  <text x="550" y="450" font-family="Arial, Helvetica, sans-serif" font-size="400" letter-spacing="10" fill="url(#g1)">
+    IAMI
+  </text>
+
+</svg>
