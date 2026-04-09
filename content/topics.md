@@ -198,6 +198,16 @@ Develop and refine strategies and tools for identifying, assessing, and prioriti
  **Vulnerability-Lookup**|
 | References<br> - [https://www.vulnerability-lookup.org](https://www.vulnerability-lookup.org)<br>- [VulnTrain](https://github.com/vulnerability-lookup/VulnTrain) |
 
+#### Task - Dataset creation script for CERT-FR Alerte and CERT-FR Avis
+
+| Task VUL-Dataset-CERTFR|
+| :--|
+| [Dataset creation script for CERT-FR Alerte and CERT-FR Avis](https://github.com/vulnerability-lookup/VulnTrain/issues/24).|
+| Task Lead
+ **Vulnerability-Lookup**|
+| References<br> - [https://www.vulnerability-lookup.org](https://www.vulnerability-lookup.org)<br>- [VulnTrain](https://github.com/vulnerability-lookup/VulnTrain) |
+
+
 ### Cybersecurity - Open Data and Open Datasets
 
 Use and create open data and datasets to support cybersecurity research, training, and collaborative innovation.
