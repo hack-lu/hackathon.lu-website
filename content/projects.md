@@ -153,3 +153,11 @@ The platform uses official Kubernetes Helms or manifests and is deployed using A
 
 ![monarc logo](/images/projects/monarc-logo.png)
 [Monarc](https://github.com/monarc-project) is an open-source tool and a method based on ISO/IEC 27005 that helps conduct an optimised, precise, and repeatable risk assessment. The code is based on php/Laminas backend, Angularjs frontend and MariaDB database. It also has some related services based on Python/Flask and Postgresql. The official website is available <a href="https://monarc.lu" target="_blank" rel="noopener">here</a>.
+
+### Misp-ghidra and BSimVis
+
+[Misp-ghidra](https://github.com/MISP/misp-ghidra) is a python library and scripts to extend Ghidra for exporting ghidra decompilation indicators (functions names, FID hashes, BSIM vectors) to MISP Objects.
+
+[BSimVis](https://github.com/MISP/BSimVis) is a tool to analyze similarities across a collection of binaries, based on Ghidra analyzers and the BSim (Behavioral Similarity) plugin. It provides an API and Web interface to upload large quantities of decompiled binaries and BSim feature vectors to a Kvrocks database for similarity analysis, function diffing, and family clustering.
+
+
