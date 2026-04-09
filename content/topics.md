@@ -144,6 +144,15 @@ Develop and refine strategies and tools for identifying, assessing, and prioriti
  **vulnerability-lookup**|
 | References<br> - [https://www.vulnerability-lookup.org/](https://www.vulnerability-lookup.org/)<br>- [commoncrawl dataset](https://commoncrawl.org) |
 
+#### Task - Sighting tool for tsunami
+
+| Task VUL-Sighting-Tsunami|
+| :--|
+| Create a [new sighting tool for Tsunami](https://github.com/vulnerability-lookup/vulnerability-lookup/issues/340)|
+| Task Lead
+ **vulnerability-lookup**|
+| References<br> - [https://www.vulnerability-lookup.org](https://www.vulnerability-lookup.org)<br>- [Existing sighting tools](https://www.vulnerability-lookup.org/tools/#sightings) |
+
 #### Task - Guessing CPE name based on vulnerability description.
 
 | Task VUL-CPE-GUESS|
@@ -151,7 +160,7 @@ Develop and refine strategies and tools for identifying, assessing, and prioriti
 | Facilitating the guessing of a CPE name via natural language processing based on vulnerability description.|
 | Task Lead
  **vulnerability-lookup**|
-| References<br> - [https://www.vulnerability-lookup.org/](https://www.vulnerability-lookup.org/)<br>- [cpe-guesser](https://github.com/cve-search/cpe-guesser) |
+| References<br> - [https://www.vulnerability-lookup.org/](https://www.vulnerability-lookup.org/)<br>- [cpe-guesser](https://github.com/vulnerability-lookup/cpe-guesser) |
 
 #### Task - Guessing CPE name with LLM
 
@@ -179,6 +188,24 @@ Develop and refine strategies and tools for identifying, assessing, and prioriti
 | Task Lead
  **Vulnerability-Lookup**|
 | References<br> - [https://www.vulnerability-lookup.org](https://www.vulnerability-lookup.org)<br>- [CodeBERT](https://huggingface.co/microsoft/codebert-base)<br>- [CodeT5](https://huggingface.co/Salesforce/codet5-base) |
+
+#### Task - Improving the NLP CWE Classifier
+
+| Task VUL-CWE-Classifier|
+| :--|
+| Improving the NLP CWE classifier ([main aspect to improve](https://github.com/vulnerability-lookup/VulnTrain/issues/17)).|
+| Task Lead
+ **Vulnerability-Lookup**|
+| References<br> - [https://www.vulnerability-lookup.org](https://www.vulnerability-lookup.org)<br>- [VulnTrain](https://github.com/vulnerability-lookup/VulnTrain) |
+
+#### Task - Dataset creation script for CERT-FR Alerte and CERT-FR Avis
+
+| Task VUL-Dataset-CERTFR|
+| :--|
+| [Dataset creation script for CERT-FR Alerte and CERT-FR Avis](https://github.com/vulnerability-lookup/VulnTrain/issues/24).|
+| Task Lead
+ **Vulnerability-Lookup**|
+| References<br> - [https://www.vulnerability-lookup.org](https://www.vulnerability-lookup.org)<br>- [VulnTrain](https://github.com/vulnerability-lookup/VulnTrain) |
 
 
 ### Cybersecurity - Open Data and Open Datasets
