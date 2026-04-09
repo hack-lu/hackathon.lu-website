@@ -151,7 +151,7 @@ Develop and refine strategies and tools for identifying, assessing, and prioriti
 | Facilitating the guessing of a CPE name via natural language processing based on vulnerability description.|
 | Task Lead
  **vulnerability-lookup**|
-| References<br> - [https://www.vulnerability-lookup.org/](https://www.vulnerability-lookup.org/)<br>- [cpe-guesser](https://github.com/cve-search/cpe-guesser) |
+| References<br> - [https://www.vulnerability-lookup.org/](https://www.vulnerability-lookup.org/)<br>- [cpe-guesser](https://github.com/vulnerability-lookup/cpe-guesser) |
 
 #### Task - Guessing CPE name with LLM
 
