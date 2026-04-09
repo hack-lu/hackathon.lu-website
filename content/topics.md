@@ -151,7 +151,7 @@ Develop and refine strategies and tools for identifying, assessing, and prioriti
 | Create a [new sighting tool for Tsunami](https://github.com/vulnerability-lookup/vulnerability-lookup/issues/340)|
 | Task Lead
  **vulnerability-lookup**|
-| References<br> - [https://www.vulnerability-lookup.org](https://www.vulnerability-lookup.org)<br> |
+| References<br> - [https://www.vulnerability-lookup.org](https://www.vulnerability-lookup.org)<br>- [Existing sighting tools](https://www.vulnerability-lookup.org/tools/#sightings) |
 
 #### Task - Guessing CPE name based on vulnerability description.
 
