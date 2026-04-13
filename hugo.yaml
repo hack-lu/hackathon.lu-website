@@ -43,6 +43,9 @@ menu:
     - name: Topics
       pageRef: /topics
       weight: 3
+    - name: Agenda
+      pageRef: /agenda
+      weight: 3
     - name: Datasets
       pageRef: /datasets
       weight: 3
