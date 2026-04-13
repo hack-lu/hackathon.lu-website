@@ -131,13 +131,13 @@ The platform uses official Kubernetes Helms or manifests and is deployed using A
 
 ![IDPS-ESCAPE logo](/images/projects/idps-escape-logo.png)
 
-[IDPS-ESCAPE](https://github.com/AbstractionsLab/idps-escape) (Intrusion Detection and Prevention Systems for Evading Supply Chain Attacks and Post-compromise Effects), part of project [CyFORT](https://abstractionslab.com/index.php/research-and-development/cyfort/), is an open-source SOAR system powered by a dedicated anomaly detection toolbox (**ADBox**), integrated with open-source software such as Wazuh and Suricata. The ADBox provides an extensible framework for integrating different AD algorithms and currently includes an implementation of MTAD-GAT, a Multivariate Time-series Anomaly Detection (MTAD) algorithm relying on Graph Attention Networks (GAT).
+[IDPS-ESCAPE](https://github.com/AbstractionsLab/idps-escape) (Intrusion Detection and Prevention System - Enhanced Security through a Cooperative Anomaly Prediction Engine), part of project [CyFORT](https://abstractionslab.com/index.php/research-and-development/cyfort/): open-source SOAR system powered by a Risk-aware Anomaly Detection-based Automated Response (RADAR) subsystem and a deep learning-based AD subsystem (SONAR), integrated with [Wazuh](https://github.com/wazuh/wazuh), [Flowintel](https://github.com/flowintel/flowintel), and Suricata.
 
-### SATRAP
+### SATRAP-DL
 
 ![SATRAP logo](/images/projects/satrap-logo.png)
 
-[SATRAP](https://github.com/AbstractionsLab/satrap-dl) (Semi-Automated Threat Reconnaissance and Analysis Platform) part of project [CyFORT](https://abstractionslab.com/index.php/research-and-development/cyfort/), is an open-source, cross-platform software aimed at supporting computer-aided analysis of cyber threat intelligence (CTI) by leveraging automated reasoning and inference. At its core, SATRAP implements a knowledge representation system (KRS) consisting of a CTI knowledge base coupled with a reasoning engine for inferring new knowledge, built on top of TypeDB. The KRS grounds SATRAP into formal underpinnings, enabling the introduction of semantics into the storage, processing, and analysis of CTI.
+[SATRAP-DL](https://github.com/AbstractionsLab/satrap-dl) (Semi-Automated Threat Reconnaissance and Analysis Powered by DECIPHER Logic), part of project [CyFORT](https://abstractionslab.com/index.php/research-and-development/cyfort/), offers a suite of tools for computer-aided CTI analysis and automated incident handling informed by CTI, provided respectively by its sub-systems SATRAP and DECIPHER, in turn integrated with [MISP](https://github.com/MISP/) and [Flowintel](https://github.com/flowintel/flowintel), via SATRAP-DL [PyFlowintel](https://github.com/AbstractionsLab/PyFlowintel).
 
 ### MISPERER
 
